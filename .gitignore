@@ -1,0 +1,21 @@
+# Binaries
+bin/
+server
+client
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+certs/*.key
+certs/*.crt
+certs/*.csr
+certs/*.srl
+certs/*.ext
+
+vendor/
+go.sum
+
+.DS_Store
+.Thumbs.db
